@@ -1,7 +1,9 @@
 p {
-  color: red;
+  color: royalblue;
 }
-
+h1{
+  color: royalblue;
+}
 .container {
   display: flex;
   justify-content: center;
@@ -12,7 +14,7 @@ p {
 
 .box {
   flex-basis: 200px;
-  background-color: #f0f0f0;
+  background-color: #skyblue;
   padding: 20px;
   border-radius: 8px;
 }
